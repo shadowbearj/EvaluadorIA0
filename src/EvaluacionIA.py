@@ -4,7 +4,7 @@ import openai
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-st.title("Evaluador de Madurez en Ciberseguridad con IA")
+st.title("Evaluador de INDICADORES en Ciberseguridad con IA")
 
 st.write("Responde las siguientes preguntas para evaluar el nivel de madurez en ciberseguridad de tu organización:")
 
